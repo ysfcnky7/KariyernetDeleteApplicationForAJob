@@ -1,4 +1,4 @@
-# KariyernetRecoveryApplicationForAJob
+# KariyernetDeleteApplicationForAJob
 Kariyer.net iş başvuru iş bulma platformu üzerinde bildiğiniz gibi geliştiriciler
 bir tüm iş başvurularımı geri çek gibi bir buton koymamışlar 
 buda yeni bir iş bulduğunuz yada artık iş aramak istemediğiniz durumda gereksiz tekliflere maruz
